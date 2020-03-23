@@ -1,4 +1,4 @@
-# DataBase And lasticSearch
+# DataBase And ElasticSearch
 ## 各种树的对比描述
 ### 1.1 二叉搜索树：   根节点比左节点大，比右节点小
         运用了“二分法”思想 —————— “前小后大”.
